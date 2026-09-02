@@ -1,0 +1,39 @@
+name: Refresh playlist snapshot
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch playlist snapshot
+        env:
+          PLAYLIST_ID: "PLK9lqA7woYVWTgfoDnm0trkrMzsC1i4rz"
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: node scripts/fetch-playlist.mjs
+
+      - name: Commit episodes.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add episodes.json
+          if git diff --staged --quiet; then
+            echo "No changes to episodes.json — skipping commit."
+          else
+            git commit -m "chore: refresh episodes.json"
+            git push
+          fi
