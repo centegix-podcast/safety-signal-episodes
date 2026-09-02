@@ -22,7 +22,7 @@ jobs:
 
       - name: Fetch playlist snapshot
         env:
-          PLAYLIST_ID: "PLK9lqA7woYVWTgfoDnm0trkrMzsC1i4rz"
+          PLAYLIST_ID: "PLV_xxR5BiqNk"
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: node scripts/fetch-playlist.mjs
 

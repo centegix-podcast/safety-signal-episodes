@@ -26,7 +26,7 @@ the browser).
 
 4. **Playlist ID and repo are already wired in**
    - `.github/workflows/refresh.yml` and `webflow-embed.html` are configured
-     for playlist `PLK9lqA7woYVWTgfoDnm0trkrMzsC1i4rz` and repo
+     for playlist `PLV_xxR5BiqNk` and repo
      `centegix-podcast/safety-signal-episodes`. If you fork or repoint this, update
      `PLAYLIST_ID` in `refresh.yml` and both the playlist ID and
      `EPISODES_URL` (owner/repo) in `webflow-embed.html`.
