@@ -54,6 +54,6 @@ the inactivity clock.
   scripts/fetch-playlist.mjs`.
 - `scripts/test.mjs` — unit tests with a mocked `fetch`. Run with `node --test
   scripts/test.mjs`.
-- `.github/workflows/refresh.yml` — daily cron (06:00 UTC) + manual trigger;
-  commits `episodes.json` only when it changed.
+- `.github/workflows/refresh.yml` — hourly cron (top of the hour, UTC) +
+  manual trigger; commits `episodes.json` only when it changed.
 - `webflow-embed.html` — paste into a Webflow Embed element.
