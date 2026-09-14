@@ -1,54 +1,61 @@
 {
   "playlistId": "PLV_xxR5BiqNk",
-  "count": 7,
-  "updatedAt": "2026-09-14T17:43:26.656Z",
+  "count": 8,
+  "updatedAt": "2026-09-14T21:30:06.024Z",
   "entries": [
+    {
+      "videoId": "dBiGdq6ooa8",
+      "title": "Jeffrey Harrison, Ohio Superintendent, on Why Safety Can't Wait | The Safety Signal Ep. 8",
+      "position": 0,
+      "published": "2026-09-14T19:14:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/dBiGdq6ooa8/mqdefault.jpg"
+    },
     {
       "videoId": "gK01NQIzRWQ",
       "title": "The Safety Signal Ep. 7 | Axon President Josh Isner on the Future of 911",
-      "position": 0,
+      "position": 1,
       "published": "2026-08-31T17:50:32Z",
       "thumbnail": "https://i.ytimg.com/vi/gK01NQIzRWQ/mqdefault.jpg"
     },
     {
       "videoId": "K-Lp1pnPsYU",
       "title": "The Safety Signal Ep. 6 | 230K Students. 1 Mission. 41 Years. Hard Safety Lessons with Chief Newman",
-      "position": 1,
+      "position": 2,
       "published": "2026-08-17T22:32:31Z",
       "thumbnail": "https://i.ytimg.com/vi/K-Lp1pnPsYU/mqdefault.jpg"
     },
     {
       "videoId": "zBRJIkxHSbo",
       "title": "The Safety Signal, Ep. 5 | From Reactive to Proactive. Giving Responders Eyes Before They Arrive",
-      "position": 2,
+      "position": 3,
       "published": "2026-08-05T19:59:54Z",
       "thumbnail": "https://i.ytimg.com/vi/zBRJIkxHSbo/mqdefault.jpg"
     },
     {
       "videoId": "0dM5KXZ6H0Y",
       "title": "The Safety Signal, Ep. 4 | Beyond the Panic Button: The Power of Layered Security",
-      "position": 3,
+      "position": 4,
       "published": "2026-07-29T17:51:39Z",
       "thumbnail": "https://i.ytimg.com/vi/0dM5KXZ6H0Y/mqdefault.jpg"
     },
     {
       "videoId": "LzW0FG4Q1vM",
       "title": "The Safety Signal, Ep. 3 | Video AI Isn't the Hero. It Gives the Heroes Time.",
-      "position": 4,
+      "position": 5,
       "published": "2026-07-15T03:46:39Z",
       "thumbnail": "https://i.ytimg.com/vi/LzW0FG4Q1vM/mqdefault.jpg"
     },
     {
       "videoId": "3gZJ71kDc5c",
       "title": "The Safety Signal, Ep. 2 with Lori Alhadeff: One Mother's Mission to Transform School Safety",
-      "position": 5,
+      "position": 6,
       "published": "2026-07-06T21:21:22Z",
       "thumbnail": "https://i.ytimg.com/vi/3gZJ71kDc5c/mqdefault.jpg"
     },
     {
       "videoId": "yPC3oXjEdjc",
       "title": "The Safety Signal, Ep. 1 with Dr. Roderick Sams: Creating Schools That Educators and Families Trust",
-      "position": 6,
+      "position": 7,
       "published": "2026-06-22T13:52:40Z",
       "thumbnail": "https://i.ytimg.com/vi/yPC3oXjEdjc/mqdefault.jpg"
     }
