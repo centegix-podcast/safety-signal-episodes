@@ -1,75 +1,82 @@
 {
   "playlistId": "PLV_xxR5BiqNk",
-  "count": 10,
-  "updatedAt": "2026-10-13T15:35:05.349Z",
+  "count": 11,
+  "updatedAt": "2026-10-13T20:59:22.661Z",
   "entries": [
+    {
+      "videoId": "iN6bHEfBiQw",
+      "title": "The Safety Signal Ep.11 | Everyone Has a Plan Until...",
+      "position": 0,
+      "published": "2026-10-13T17:07:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/iN6bHEfBiQw/mqdefault.jpg"
+    },
     {
       "videoId": "dBiGdq6ooa8",
       "title": "The Safety Signal Ep. 8 | Jeffrey Harrison, Ohio Superintendent, on Why Safety Can't Wait",
-      "position": 0,
+      "position": 1,
       "published": "2026-10-07T14:38:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dBiGdq6ooa8/mqdefault.jpg"
     },
     {
       "videoId": "n9ymYVpAMio",
       "title": "The Safety Signal Ep. 10 | Show Me the Money. Promises Don't Make Schools Safe",
-      "position": 1,
+      "position": 2,
       "published": "2026-10-05T15:14:14Z",
       "thumbnail": "https://i.ytimg.com/vi/n9ymYVpAMio/mqdefault.jpg"
     },
     {
       "videoId": "qSay4j5qWx0",
       "title": "The Safety Signal Ep. 9 | Ron Self: The Student Who Changed His Mission in School Safety",
-      "position": 2,
+      "position": 3,
       "published": "2026-09-25T21:44:04Z",
       "thumbnail": "https://i.ytimg.com/vi/qSay4j5qWx0/mqdefault.jpg"
     },
     {
       "videoId": "gK01NQIzRWQ",
       "title": "The Safety Signal Ep. 7 | Axon President Josh Isner on the Future of 911",
-      "position": 3,
+      "position": 4,
       "published": "2026-08-31T17:50:32Z",
       "thumbnail": "https://i.ytimg.com/vi/gK01NQIzRWQ/mqdefault.jpg"
     },
     {
       "videoId": "K-Lp1pnPsYU",
       "title": "The Safety Signal Ep. 6 | 230K Students. 1 Mission. 41 Years. Hard Safety Lessons with Chief Newman",
-      "position": 4,
+      "position": 5,
       "published": "2026-08-17T22:32:31Z",
       "thumbnail": "https://i.ytimg.com/vi/K-Lp1pnPsYU/mqdefault.jpg"
     },
     {
       "videoId": "zBRJIkxHSbo",
       "title": "The Safety Signal, Ep. 5 | From Reactive to Proactive. Giving Responders Eyes Before They Arrive",
-      "position": 5,
+      "position": 6,
       "published": "2026-08-05T19:59:54Z",
       "thumbnail": "https://i.ytimg.com/vi/zBRJIkxHSbo/mqdefault.jpg"
     },
     {
       "videoId": "0dM5KXZ6H0Y",
       "title": "The Safety Signal, Ep. 4 | Beyond the Panic Button: The Power of Layered Security",
-      "position": 6,
+      "position": 7,
       "published": "2026-07-29T17:51:39Z",
       "thumbnail": "https://i.ytimg.com/vi/0dM5KXZ6H0Y/mqdefault.jpg"
     },
     {
       "videoId": "LzW0FG4Q1vM",
       "title": "The Safety Signal, Ep. 3 | Video AI Isn't the Hero. It Gives the Heroes Time.",
-      "position": 7,
+      "position": 8,
       "published": "2026-07-15T03:46:39Z",
       "thumbnail": "https://i.ytimg.com/vi/LzW0FG4Q1vM/mqdefault.jpg"
     },
     {
       "videoId": "3gZJ71kDc5c",
       "title": "The Safety Signal, Ep. 2 with Lori Alhadeff: One Mother's Mission to Transform School Safety",
-      "position": 8,
+      "position": 9,
       "published": "2026-07-06T21:21:22Z",
       "thumbnail": "https://i.ytimg.com/vi/3gZJ71kDc5c/mqdefault.jpg"
     },
     {
       "videoId": "yPC3oXjEdjc",
       "title": "The Safety Signal, Ep. 1 with Dr. Roderick Sams: Creating Schools That Educators and Families Trust",
-      "position": 9,
+      "position": 10,
       "published": "2026-06-22T13:52:40Z",
       "thumbnail": "https://i.ytimg.com/vi/yPC3oXjEdjc/mqdefault.jpg"
     }
